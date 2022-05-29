@@ -22,7 +22,7 @@
 
 • Permanent thumbnail Support
 ```
-Star the repo And Follow [Me](https://github.com/kalanakt)
+Star the repo And Follow [Me]https://github.com/Sumindu/All-Url-Uploader
 
 ## Deploy 🚀
 
